@@ -24,12 +24,11 @@ function App() {
             Duc Pro
           </a>
         </header>
-      ) : null}
-      {step == 1 ? (
+      ) : (
         <div className="Container">
           <a className="Text">Hòa ghẻ, Hưng gà vào đây bố cân 2</a>
         </div>
-      ) : null}
+      )}
     </div>
   );
 }
