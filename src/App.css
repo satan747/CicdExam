@@ -44,9 +44,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.Text{
   font-size: 70px;
   font-weight: 900;
 }
+
