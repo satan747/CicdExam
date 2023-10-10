@@ -26,7 +26,7 @@ function App() {
         </header>
       ) : (
         <div className="Container">
-          <a className="Text">Hòa ghẻ, Hưng gà vào đây bố cân 2</a>
+          <a className="Text">Hoa ghe, Hung ga`</a>
         </div>
       )}
     </div>
